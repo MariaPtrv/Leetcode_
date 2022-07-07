@@ -14,9 +14,29 @@
   <td>Easy</td>
   </tr>
   <tr>
-    <td></td>
-  <td></td>
-  <td></td>
+   <td>14</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/14_Longest_Common_Prefix.kt" rel="nofollow">Longest Common Prefix</a></td>
+  <td>Easy</td>
+  </tr>
+    <tr>
+   <td>168</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/168_Excel_Sheet_Column_Title_Easy.kt" rel="nofollow">Excel Sheet Column_Title</a></td>
+  <td>Easy</td>
+  </tr>
+    <tr>
+   <td>202</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/202_Happy_Number.kt" rel="nofollow">Happy Number</a></td>
+  <td>Easy</td>
+  </tr>
+    <tr>
+   <td>58</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/58_Length_of_Last_Word_Easy.kt" rel="nofollow">Length of Last Word Easy</a></td>
+  <td>Easy</td>
+  </tr>
+    <tr>
+   <td>69</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/69_Sqrt(x).kt" rel="nofollow">Sqrt(x)</a></td>
+  <td>Easy</td>
   </tr>
 </table>
 
