@@ -38,6 +38,11 @@
   <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/69_Sqrt(x).kt" rel="nofollow">Sqrt(x)</a></td>
   <td>Easy</td>
   </tr>
+   <tr>
+   <td>169</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/169_Majority_Element.kt" rel="nofollow">Majority Element</a></td>
+  <td>Easy</td>
+  </tr>
 </table>
 
 
