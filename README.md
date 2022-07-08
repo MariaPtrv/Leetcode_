@@ -43,6 +43,11 @@
   <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/169_Majority_Element.kt" rel="nofollow">Majority Element</a></td>
   <td>Easy</td>
   </tr>
+   <tr>
+   <td>217</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/217_Contains_Duplicate.kt" rel="nofollow">Contains Duplicate</a></td>
+  <td>Easy</td>
+  </tr>
 </table>
 
 
