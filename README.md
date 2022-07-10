@@ -53,6 +53,11 @@
   <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/242_Valid_Anagram.kt" rel="nofollow">Valid_Anagram</a></td>
   <td>Easy</td>
   </tr>
+   <tr>
+   <td>268</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/268_Missing_Number.kt" rel="nofollow">Missing Number</a></td>
+  <td>Easy</td>
+  </tr>
 </table>
 
 
