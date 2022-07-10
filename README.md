@@ -48,6 +48,11 @@
   <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/217_Contains_Duplicate.kt" rel="nofollow">Contains Duplicate</a></td>
   <td>Easy</td>
   </tr>
+   <tr>
+   <td>242</td>
+  <td><a href="https://github.com/MariaPtrv/leetcode_Kotlin/blob/main/242_Valid_Anagram.kt" rel="nofollow">Valid_Anagram</a></td>
+  <td>Easy</td>
+  </tr>
 </table>
 
 
