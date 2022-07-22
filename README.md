@@ -76,12 +76,14 @@
   <td>JavaScript</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/283_Move_Zeroes.js" rel="nofollow">283 Move Zeroes</a></td>
+  <td>283</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/283_Move_Zeroes.js" rel="nofollow">Move Zeroes</a></td>
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
-   <tr>
-  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/20_Valid_Parentheses.js" rel="nofollow">20 Valid Parentheses</a></td>
+  <tr>
+  <td>20</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/20_Valid_Parentheses.js" rel="nofollow">Valid Parentheses</a></td>
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
