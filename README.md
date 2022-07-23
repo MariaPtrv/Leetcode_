@@ -105,6 +105,12 @@
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
+  <tr>
+  <td>1480</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1480_Running_Sum_of_1d_Array.js" rel="nofollow">Running Sum of 1d Array</a></td>
+  <td>Easy</td>
+  <td>JavaScript</td>
+  </tr>
 </table>
 
 
