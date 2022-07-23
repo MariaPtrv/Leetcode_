@@ -99,6 +99,12 @@
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
+  <tr>
+  <td>1678</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1678_Goal_Parser_Interpretation.js" rel="nofollow">Goal Parser Interpretation</a></td>
+  <td>Easy</td>
+  <td>JavaScript</td>
+  </tr>
 </table>
 
 
