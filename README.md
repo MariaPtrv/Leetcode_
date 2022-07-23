@@ -87,6 +87,12 @@
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
+  <tr>
+  <td>1920</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1920_Build_Array_from_Permutation.js" rel="nofollow">Build Array from Permutation</a></td>
+  <td>Easy</td>
+  <td>JavaScript</td>
+  </tr>
 </table>
 
 
