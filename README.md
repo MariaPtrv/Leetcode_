@@ -93,6 +93,12 @@
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
+   <tr>
+  <td>1929</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1929_Concatenation_of_Array.js" rel="nofollow">Concatenation of Array</a></td>
+  <td>Easy</td>
+  <td>JavaScript</td>
+  </tr>
 </table>
 
 
