@@ -111,6 +111,12 @@
   <td>Easy</td>
   <td>JavaScript</td>
   </tr>
+  <tr>
+  <td>1282</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1282_Group_the_People_Given_the_Group_Size_They_Belong_To.js" rel="nofollow">Group the People Given the Group Size They Belong To</a></td>
+  <td>Medium</td>
+  <td>JavaScript</td>
+  </tr>
 </table>
 
 
