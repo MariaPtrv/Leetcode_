@@ -117,6 +117,12 @@
   <td>Medium</td>
   <td>JavaScript</td>
   </tr>
+  <tr>
+  <td>2221</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/8a92cddd19478bca23d90f024da933427c53cf15" rel="nofollow">Find Triangular Sum of an Array</a></td>
+  <td>Medium</td>
+  <td>JavaScript</td>
+  </tr>
 </table>
 
 
