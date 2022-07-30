@@ -16,53 +16,53 @@ var wateringPlants = function(plants, capacity) {
     };
     
     const isEnd = () => {
-        return progress.notEnough == 0 && progress.currentIndex == plants.length;
+        return progress.notEnough == 0 && progress.currentIndex == plants.length - 1;
     };
     
     const goToRiver = () => {
         const stepsToRiver = progress.currentIndex*2 + 2;
         progress.steps = progress.steps + stepsToRiver;
-        progress.wateringCan = capacity;
-        console.log("=== goToRiver === " , progress);
-        console.log("===================== steps +" ,stepsToRiver);
-        
+        progress.wateringCan = capacity;        
     };
     
-    const goFromTo = (toPos) => {
+    const goTo = (toPos) => {
         if (toPos < plants.length) {
             progress.currentIndex = toPos;
             progress.notEnough = plants[progress.currentIndex];
             progress.steps = progress.steps + 1;
-            console.log("=== goFromTo === " , progress);
-            console.log("===================== steps +" , 1);
             return true;
         }
         return false;
     };
     
+    
     const waterPlant = () => {
-          while (!isEnd()) {
-              if (progress.notEnough > progress.wateringCan) {
-                  progress.notEnough = progress.notEnough - progress.wateringCan;
-                  progress.wateringCan = 0;
-                  goToRiver(); 
-                  console.log("=== waterPlant 1 === " , progress);
-              }
-              else {
-                  progress.wateringCan = progress.wateringCan - progress.notEnough;
-                  progress.notEnough=0;
-                  goFromTo(progress.currentIndex+1)
-                  console.log("=== waterPlant 2 === " , progress);
-              }
-             
-          }
+        const waterEnough = () => {
+            progress.wateringCan = progress.wateringCan - progress.notEnough;
+            progress.notEnough=0;
+        };
+        
+        const waterNotEnough = () => {
+            progress.notEnough = progress.notEnough - progress.wateringCan;
+            progress.wateringCan = 0;
+            if (!isEnd()) goToRiver(); 
+        }
+        
+        while (progress.notEnough!=0) {
+             if (progress.notEnough > progress.wateringCan) waterNotEnough();
+             else waterEnough();          
+        }             
     };
     
-      
+    const isEnoughForNextPlant = () => {
+        return plants[progress.currentIndex+1] <= progress.wateringCan
+    };  
     while (!isEnd()) {
-        console.log("====== " , progress.steps);
         waterPlant();
-        console.log("=== progress === " , progress);
+        if (isEnoughForNextPlant()) goTo(progress.currentIndex+1);
+        else {
+           if (!isEnd()) goToRiver();
+        }
     }
     
     return progress.steps;
