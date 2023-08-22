@@ -123,6 +123,13 @@
   <td>Medium</td>
   <td>JavaScript</td>
   </tr>
+    <tr>
+  <td>66</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/8a92cddd19478bca23d90f024da933427c53cf15" rel="nofollow">Plus One
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
 </table>
 
 
