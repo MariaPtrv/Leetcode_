@@ -151,6 +151,20 @@
   <td>Easy</td>
   <td>Go</td>
   </tr>
+          <tr>
+  <td>1773</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/b71580c7b28821228d3ad5b4cf6ab52c038b66b0" rel="nofollow">Count Items Matching a Rule
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
+          <tr>
+  <td>1859</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/b71580c7b28821228d3ad5b4cf6ab52c038b66b0" rel="nofollow">Sorting the Sentence
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
 </table>
 
 
