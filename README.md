@@ -137,6 +137,20 @@
   <td>Easy</td>
   <td>Go</td>
   </tr>
+        <tr>
+  <td>709</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/4926a801b380f586c872568392ee065c6ebea331" rel="nofollow">To Lower Case
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
+        <tr>
+  <td>1436</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/b71580c7b28821228d3ad5b4cf6ab52c038b66b0" rel="nofollow">Destination City
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
 </table>
 
 
