@@ -165,6 +165,20 @@
   <td>Easy</td>
   <td>Go</td>
   </tr>
+            <tr>
+  <td>1816</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1816_Truncate_Sentence.go" rel="nofollow">Truncate Sentence
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
+            <tr>
+  <td>1773</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/1859_Sorting_the_Sentence.go" rel="nofollow">Count Items Matching a Rule
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
 </table>
 
 
