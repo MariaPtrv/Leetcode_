@@ -179,6 +179,13 @@
   <td>Easy</td>
   <td>Go</td>
   </tr>
+              <tr>
+  <td>500</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/commit/e79fcb8df1d56a785c71ba69cec7e66fd25f20ad" rel="nofollow">Keyboard Row
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
 </table>
 
 
