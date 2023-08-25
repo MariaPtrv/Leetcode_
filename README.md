@@ -200,6 +200,20 @@
   <td>Easy</td>
   <td>Go</td>
   </tr>
+                    <tr>
+  <td>884</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/884_Uncommon_Words_from_Two_Sentences.go" rel="nofollow">Uncommon Words from Two Sentences
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
+                    <tr>
+  <td>2788</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/2278_Percentage_of_Letter_in_String.go" rel="nofollow">Percentage of Letter in String
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
 </table>
 
 
