@@ -1,9 +1,24 @@
 package main
 
-import "fmt"
+import (
+	"bufio"
+	"fmt"
+	"os"
+)
 
 func main() {
-	arr := []int{3, 4, 1, 43, 643, 21, 332, 53, -2, 90, 0}
+	var n int
+
+	//arr := []int{3, 4, 1, 43, 643, 21, 332, 53, -2, 90, 0}
+	in := bufio.NewReader(os.Stdin)
+	fmt.Fscan(in, &n)
+	arr := make([]int, 0, n)
+	for i := 0; i < n; i++ {
+		var val int
+		fmt.Fscan(in, &val)
+		arr = append(arr, val)
+	}
+
 	fmt.Println(arr)
 	fmt.Println("Sorted: ", mergeSort(arr))
 }
