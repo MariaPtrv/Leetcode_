@@ -2,6 +2,13 @@
 
 <h2>Попытка решать каждый день по одной задаче</h2>
 
+<i>Оказалось очень утомительным записывать сюда задачи, если их действительно пытаться решать каждый день. Поэтому можно посмотреть мой профиль на leetcode: [MariaPtrv](https://leetcode.com/u/MariaPtrv/)</i>
+
+  <a href="https://leetcode.com/MariaPtrv#gh-dark-mode-only">
+      <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+  </a>
+
+  
 <table>
   <tr>
     <td>№</td>
@@ -214,6 +221,24 @@
   <td>Easy</td>
   <td>Go</td>
   </tr>
+
+   <tr>
+  <td>1757</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/RecyclableAndLowFatProducts.sql" rel="nofollow">Recyclable and Low Fat Products
+</a></td>
+  <td>Easy</td>
+  <td>PosgreSQL</td>
+  </tr>
+
+   <tr>
+  <td>448</td>
+  <td><a href="https://github.com/MariaPtrv/Leetcode_/blob/main/findDisappearedNumbers.go" rel="nofollow">Find All Numbers Disappeared in an Array
+</a></td>
+  <td>Easy</td>
+  <td>Go</td>
+  </tr>
+
+  
 </table>
 
 
