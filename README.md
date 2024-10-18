@@ -5,7 +5,7 @@
 <i>Оказалось очень утомительным записывать сюда задачи, если их действительно пытаться решать каждый день. Поэтому можно посмотреть мой профиль на leetcode: [MariaPtrv](https://leetcode.com/u/MariaPtrv/)</i>
 
   <a href="https://leetcode.com/MariaPtrv#gh-dark-mode-only">
-      <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+      <img src="https://leetcard.jacoblin.cool/MariaPtrv?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
   </a>
 
   
